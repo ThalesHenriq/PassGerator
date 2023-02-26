@@ -85,12 +85,12 @@ input-box span{
 }
 
 .pass-indicator#medium::before{
-    width: 20%;
+    width: 50%;
     background: #f1e89b;
 }
 
 .pass-indicator#strong::before{
-    width: 20%;
+    width: 100%;
     background: #43A047;
 }
 
